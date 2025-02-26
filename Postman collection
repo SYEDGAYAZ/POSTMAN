@@ -1,1 +1,79 @@
-
+{
+    "name": "Postman Collections",
+    "description": "This is a profile of Postman collections, providing a single source of truth for everything about collections, providing links, and eventually APIs that help define what is possible with Postman collections. ",
+    "tags": [
+        "Collections",
+        "Postman",
+        "Specifications"
+    ],
+    "created": "2021-03-30",
+    "modified": "2021-03-30",
+    "url": "",
+    "specificationVersion": "0.14",
+    "apis": [],
+    "x-common": [
+        {
+            "type": "x-marketing-page",
+            "url": "https://www.postman.com/collection/ "
+        },
+        {
+            "type": "x-documentation",
+            "url": "https://learning.postman.com/docs/sending-requests/intro-to-collections/"
+        },
+        {
+            "type": "x-schema",
+            "url": "https://schema.postman.com/"
+        },
+        {
+            "type": "x-github-issues",
+            "url": "https://github.com/postmanlabs/postman-app-support/issues?q=is%3Aissue+is%3Aopen+collection"
+        },
+        {
+            "type": "x-stack-overflow",
+            "url": "https://stackoverflow.com/search?q=postman+collection"
+        },
+        {
+            "type": "x-postman-community",
+            "url": "https://community.postman.com/search?q=collection"
+        },
+        {
+            "type": "x-linkedin-group",
+            "url": "https://www.linkedin.com/groups/8556951"
+        },
+        {
+            "type": "x-open-source",
+            "url": "https://www.openapis.org/specification/repo"
+        },
+        {
+            "type": "x-privacy",
+            "url": "http://www.linuxfoundation.org/privacy"
+        },
+        {
+            "type": "x-terms-of-service",
+            "url": "http://www.linuxfoundation.org/terms"
+        },
+        {
+            "type": "x-twitter",
+            "url": "https://twitter.com/openapispec"
+        },
+        {
+            "type": "x-website",
+            "url": "https://openapis.org/"
+        },
+        {
+            "type": "x-screenshot",
+            "url": "http://kinlane-productions2.s3.amazonaws.com/openapi-spec.jpg"
+        },
+        {
+            "type": "x-postman-workspace",
+            "url": "https://www.postman.com/api-evangelist/workspace/openapi/overview"
+        }
+    ],   
+    "maintainers": [
+        {
+            "FN": "Kin Lane",
+            "email": "kin.lane@postman.com",
+            "x-Tweets": "kinlane"
+        }
+    ]
+}
